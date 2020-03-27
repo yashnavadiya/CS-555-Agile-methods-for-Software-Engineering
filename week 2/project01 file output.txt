@@ -1,0 +1,364 @@
+ --> 0 NOTE yash navadiya
+ <-- 0 | NOTE | Y |  yash navadiya
+ --> 0 HEAD
+ <-- 0 | HEAD | Y | 
+ --> 1 SOUR Family Echo
+ <-- 1 | SOUR | N |  Family Echo
+ --> 2 WWW http://www.familyecho.com/
+ <-- 2 | WWW | N |  http://www.familyecho.com/
+ --> 1 FILE My Family
+ <-- 1 | FILE | N |  My Family
+ --> 1 DATE 2 FEB 2020
+ <-- 1 | DATE | N |  2 FEB 2020
+ --> 1 DEST ANSTFILE
+ <-- 1 | DEST | N |  ANSTFILE
+ --> 1 GEDC
+ <-- 1 | GEDC | N | 
+ --> 2 VERS 5.5.1
+ <-- 2 | VERS | N |  5.5.1
+ --> 2 FORM LINEAGE-LINKED
+ <-- 2 | FORM | N |  LINEAGE-LINKED
+ --> 1 SUBM @I1@
+ <-- 1 | SUBM | N |  @I1@
+ --> 2 NAME Yash
+ <-- 2 | NAME | N |  Yash
+ --> 1 SUBN
+ <-- 1 | SUBN | N | 
+ --> 1 CHAR UTF-8
+ <-- 1 | CHAR | N |  UTF-8
+ --> 0 @I1@ INDI
+ <-- 0 | @I1@ | Y |  INDI
+ --> 1 NAME Yash /Khan/
+ <-- 1 | NAME | Y |  Yash /Khan/
+ --> 2 GIVN Yash
+ <-- 2 | GIVN | N |  Yash
+ --> 2 SURN Khan
+ <-- 2 | SURN | N |  Khan
+ --> 2 _MARNM Khan
+ <-- 2 | _MARNM | N |  Khan
+ --> 1 SEX M
+ <-- 1 | SEX | Y |  M
+ --> 1 BIRT
+ <-- 1 | BIRT | Y | 
+ --> 2 DATE 18 MAR 1972
+ <-- 2 | DATE | Y |  18 MAR 1972
+ --> 1 FAMS @F1@
+ <-- 1 | FAMS | Y |  @F1@
+ --> 1 FAMC @F2@
+ <-- 1 | FAMC | Y |  @F2@
+ --> 0 @I2@ INDI
+ <-- 0 | @I2@ | Y |  INDI
+ --> 1 NAME Pati /Khan/
+ <-- 1 | NAME | Y |  Pati /Khan/
+ --> 2 GIVN Pati
+ <-- 2 | GIVN | N |  Pati
+ --> 2 SURN Khan
+ <-- 2 | SURN | N |  Khan
+ --> 2 _MARNM Khan
+ <-- 2 | _MARNM | N |  Khan
+ --> 1 SEX M
+ <-- 1 | SEX | Y |  M
+ --> 1 BIRT
+ <-- 1 | BIRT | Y | 
+ --> 2 DATE 5 APR 1950
+ <-- 2 | DATE | Y |  5 APR 1950
+ --> 1 FAMS @F2@
+ <-- 1 | FAMS | Y |  @F2@
+ --> 0 @I3@ INDI
+ <-- 0 | @I3@ | Y |  INDI
+ --> 1 NAME Patni /Khan/
+ <-- 1 | NAME | Y |  Patni /Khan/
+ --> 2 GIVN Patni
+ <-- 2 | GIVN | N |  Patni
+ --> 2 SURN Khan
+ <-- 2 | SURN | N |  Khan
+ --> 2 _MARNM Khan
+ <-- 2 | _MARNM | N |  Khan
+ --> 1 SEX F
+ <-- 1 | SEX | Y |  F
+ --> 1 BIRT
+ <-- 1 | BIRT | Y | 
+ --> 2 DATE 5 APR 1954
+ <-- 2 | DATE | Y |  5 APR 1954
+ --> 1 FAMS @F2@
+ <-- 1 | FAMS | Y |  @F2@
+ --> 0 @I4@ INDI
+ <-- 0 | @I4@ | Y |  INDI
+ --> 1 NAME King /Khan/
+ <-- 1 | NAME | Y |  King /Khan/
+ --> 2 GIVN King
+ <-- 2 | GIVN | N |  King
+ --> 2 SURN Khan
+ <-- 2 | SURN | N |  Khan
+ --> 2 _MARNM Khan
+ <-- 2 | _MARNM | N |  Khan
+ --> 1 SEX M
+ <-- 1 | SEX | Y |  M
+ --> 1 BIRT
+ <-- 1 | BIRT | Y | 
+ --> 2 DATE 3 JUN 1973
+ <-- 2 | DATE | Y |  3 JUN 1973
+ --> 1 FAMS @F3@
+ <-- 1 | FAMS | Y |  @F3@
+ --> 1 FAMC @F2@
+ <-- 1 | FAMC | Y |  @F2@
+ --> 0 @I5@ INDI
+ <-- 0 | @I5@ | Y |  INDI
+ --> 1 NAME Salman /Khan/
+ <-- 1 | NAME | Y |  Salman /Khan/
+ --> 2 GIVN Salman
+ <-- 2 | GIVN | N |  Salman
+ --> 2 SURN Khan
+ <-- 2 | SURN | N |  Khan
+ --> 2 _MARNM Khan
+ <-- 2 | _MARNM | N |  Khan
+ --> 1 SEX M
+ <-- 1 | SEX | Y |  M
+ --> 1 BIRT
+ <-- 1 | BIRT | Y | 
+ --> 2 DATE 9 APR 1980
+ <-- 2 | DATE | Y |  9 APR 1980
+ --> 1 FAMS @F4@
+ <-- 1 | FAMS | Y |  @F4@
+ --> 1 FAMS @F5@
+ <-- 1 | FAMS | Y |  @F5@
+ --> 1 FAMC @F2@
+ <-- 1 | FAMC | Y |  @F2@
+ --> 0 @I6@ INDI
+ <-- 0 | @I6@ | Y |  INDI
+ --> 1 NAME Siya /Patel/
+ <-- 1 | NAME | Y |  Siya /Patel/
+ --> 2 GIVN Siya
+ <-- 2 | GIVN | N |  Siya
+ --> 2 SURN Patel
+ <-- 2 | SURN | N |  Patel
+ --> 2 _MARNM Khan
+ <-- 2 | _MARNM | N |  Khan
+ --> 1 SEX F
+ <-- 1 | SEX | Y |  F
+ --> 1 BIRT
+ <-- 1 | BIRT | Y | 
+ --> 2 DATE 2 JUN 1973
+ <-- 2 | DATE | Y |  2 JUN 1973
+ --> 1 FAMS @F1@
+ <-- 1 | FAMS | Y |  @F1@
+ --> 0 @I7@ INDI
+ <-- 0 | @I7@ | Y |  INDI
+ --> 1 NAME Miya /Desai/
+ <-- 1 | NAME | Y |  Miya /Desai/
+ --> 2 GIVN Miya
+ <-- 2 | GIVN | N |  Miya
+ --> 2 SURN Desai
+ <-- 2 | SURN | N |  Desai
+ --> 2 _MARNM Khan
+ <-- 2 | _MARNM | N |  Khan
+ --> 1 SEX F
+ <-- 1 | SEX | Y |  F
+ --> 1 BIRT
+ <-- 1 | BIRT | Y | 
+ --> 2 DATE 3 JUN 1974
+ <-- 2 | DATE | Y |  3 JUN 1974
+ --> 1 FAMS @F3@
+ <-- 1 | FAMS | Y |  @F3@
+ --> 0 @I8@ INDI
+ <-- 0 | @I8@ | Y |  INDI
+ --> 1 NAME Katrina /Kaif/
+ <-- 1 | NAME | Y |  Katrina /Kaif/
+ --> 2 GIVN Katrina
+ <-- 2 | GIVN | N |  Katrina
+ --> 2 SURN Kaif
+ <-- 2 | SURN | N |  Kaif
+ --> 2 _MARNM Khan
+ <-- 2 | _MARNM | N |  Khan
+ --> 1 SEX F
+ <-- 1 | SEX | Y |  F
+ --> 1 BIRT
+ <-- 1 | BIRT | Y | 
+ --> 2 DATE 9 APR 1980
+ <-- 2 | DATE | Y |  9 APR 1980
+ --> 1 FAMS @F4@
+ <-- 1 | FAMS | Y |  @F4@
+ --> 0 @I9@ INDI
+ <-- 0 | @I9@ | Y |  INDI
+ --> 1 NAME Abdul /Khan/
+ <-- 1 | NAME | Y |  Abdul /Khan/
+ --> 2 GIVN Abdul
+ <-- 2 | GIVN | N |  Abdul
+ --> 2 SURN Khan
+ <-- 2 | SURN | N |  Khan
+ --> 2 _MARNM Khan
+ <-- 2 | _MARNM | N |  Khan
+ --> 1 SEX M
+ <-- 1 | SEX | Y |  M
+ --> 1 BIRT
+ <-- 1 | BIRT | Y | 
+ --> 2 DATE 2 JUL 1990
+ <-- 2 | DATE | Y |  2 JUL 1990
+ --> 1 FAMC @F1@
+ <-- 1 | FAMC | Y |  @F1@
+ --> 0 @I10@ INDI
+ <-- 0 | @I10@ | Y |  INDI
+ --> 1 NAME Krish /Khan/
+ <-- 1 | NAME | Y |  Krish /Khan/
+ --> 2 GIVN Krish
+ <-- 2 | GIVN | N |  Krish
+ --> 2 SURN Khan
+ <-- 2 | SURN | N |  Khan
+ --> 2 _MARNM Khan
+ <-- 2 | _MARNM | N |  Khan
+ --> 1 SEX M
+ <-- 1 | SEX | Y |  M
+ --> 1 BIRT
+ <-- 1 | BIRT | Y | 
+ --> 2 DATE 2 MAY 1995
+ <-- 2 | DATE | Y |  2 MAY 1995
+ --> 1 FAMC @F3@
+ <-- 1 | FAMC | Y |  @F3@
+ --> 0 @I11@ INDI
+ <-- 0 | @I11@ | Y |  INDI
+ --> 1 NAME Rafiz /Khan/
+ <-- 1 | NAME | Y |  Rafiz /Khan/
+ --> 2 GIVN Rafiz
+ <-- 2 | GIVN | N |  Rafiz
+ --> 2 SURN Khan
+ <-- 2 | SURN | N |  Khan
+ --> 2 _MARNM Khan
+ <-- 2 | _MARNM | N |  Khan
+ --> 1 SEX M
+ <-- 1 | SEX | Y |  M
+ --> 1 BIRT
+ <-- 1 | BIRT | Y | 
+ --> 2 DATE 3 MAR 2003
+ <-- 2 | DATE | Y |  3 MAR 2003
+ --> 1 FAMC @F4@
+ <-- 1 | FAMC | Y |  @F4@
+ --> 0 @I12@ INDI
+ <-- 0 | @I12@ | Y |  INDI
+ --> 1 NAME Khalifa /Miyani/
+ <-- 1 | NAME | Y |  Khalifa /Miyani/
+ --> 2 GIVN Khalifa
+ <-- 2 | GIVN | N |  Khalifa
+ --> 2 SURN Miyani
+ <-- 2 | SURN | N |  Miyani
+ --> 2 _MARNM Khan
+ <-- 2 | _MARNM | N |  Khan
+ --> 1 SEX F
+ <-- 1 | SEX | Y |  F
+ --> 1 BIRT
+ <-- 1 | BIRT | Y | 
+ --> 2 DATE 2 FEB 1993
+ <-- 2 | DATE | Y |  2 FEB 1993
+ --> 1 DEAT Y
+ <-- 1 | DEAT | Y |  Y
+ --> 2 DATE 8 OCT 2012
+ <-- 2 | DATE | Y |  8 OCT 2012
+ --> 1 FAMS @F5@
+ <-- 1 | FAMS | Y |  @F5@
+ --> 0 @I13@ INDI
+ <-- 0 | @I13@ | Y |  INDI
+ --> 1 NAME Mohammed /Khan/
+ <-- 1 | NAME | Y |  Mohammed /Khan/
+ --> 2 GIVN Mohammed
+ <-- 2 | GIVN | N |  Mohammed
+ --> 2 SURN Khan
+ <-- 2 | SURN | N |  Khan
+ --> 2 _MARNM Khan
+ <-- 2 | _MARNM | N |  Khan
+ --> 1 SEX M
+ <-- 1 | SEX | Y |  M
+ --> 1 BIRT
+ <-- 1 | BIRT | Y | 
+ --> 2 DATE 2 MAR 2001
+ <-- 2 | DATE | Y |  2 MAR 2001
+ --> 1 FAMC @F5@
+ <-- 1 | FAMC | Y |  @F5@
+ --> 0 @F1@ FAM
+ <-- 0 | @F1@ | Y |  FAM
+ --> 1 HUSB @I1@
+ <-- 1 | HUSB | Y |  @I1@
+ --> 1 WIFE @I6@
+ <-- 1 | WIFE | Y |  @I6@
+ --> 1 CHIL @I9@
+ <-- 1 | CHIL | Y |  @I9@
+ --> 1 MARR
+ <-- 1 | MARR | Y | 
+ --> 2 DATE 5 JAN 1989
+ <-- 2 | DATE | Y |  5 JAN 1989
+ --> 2 PLAC mumbai
+ <-- 2 | PLAC | N |  mumbai
+ --> 1 _CURRENT Y
+ <-- 1 | _CURRENT | N |  Y
+ --> 0 @F2@ FAM
+ <-- 0 | @F2@ | Y |  FAM
+ --> 1 HUSB @I2@
+ <-- 1 | HUSB | Y |  @I2@
+ --> 1 WIFE @I3@
+ <-- 1 | WIFE | Y |  @I3@
+ --> 1 CHIL @I1@
+ <-- 1 | CHIL | Y |  @I1@
+ --> 1 CHIL @I4@
+ <-- 1 | CHIL | Y |  @I4@
+ --> 1 CHIL @I5@
+ <-- 1 | CHIL | Y |  @I5@
+ --> 1 MARR
+ <-- 1 | MARR | Y | 
+ --> 2 DATE 1 AUG 1970
+ <-- 2 | DATE | Y |  1 AUG 1970
+ --> 2 PLAC dubai
+ <-- 2 | PLAC | N |  dubai
+ --> 1 _CURRENT Y
+ <-- 1 | _CURRENT | N |  Y
+ --> 0 @F3@ FAM
+ <-- 0 | @F3@ | Y |  FAM
+ --> 1 HUSB @I4@
+ <-- 1 | HUSB | Y |  @I4@
+ --> 1 WIFE @I7@
+ <-- 1 | WIFE | Y |  @I7@
+ --> 1 CHIL @I10@
+ <-- 1 | CHIL | Y |  @I10@
+ --> 1 MARR
+ <-- 1 | MARR | Y | 
+ --> 2 DATE 3 NOV 1993
+ <-- 2 | DATE | Y |  3 NOV 1993
+ --> 2 PLAC africa
+ <-- 2 | PLAC | N |  africa
+ --> 1 _CURRENT Y
+ <-- 1 | _CURRENT | N |  Y
+ --> 0 @F4@ FAM
+ <-- 0 | @F4@ | Y |  FAM
+ --> 1 HUSB @I5@
+ <-- 1 | HUSB | Y |  @I5@
+ --> 1 WIFE @I8@
+ <-- 1 | WIFE | Y |  @I8@
+ --> 1 CHIL @I11@
+ <-- 1 | CHIL | Y |  @I11@
+ --> 1 MARR
+ <-- 1 | MARR | Y | 
+ --> 2 DATE 2 MAY 2002
+ <-- 2 | DATE | Y |  2 MAY 2002
+ --> 2 PLAC canada
+ <-- 2 | PLAC | N |  canada
+ --> 1 _CURRENT Y
+ <-- 1 | _CURRENT | N |  Y
+ --> 0 @F5@ FAM
+ <-- 0 | @F5@ | Y |  FAM
+ --> 1 HUSB @I5@
+ <-- 1 | HUSB | Y |  @I5@
+ --> 1 WIFE @I12@
+ <-- 1 | WIFE | Y |  @I12@
+ --> 1 CHIL @I13@
+ <-- 1 | CHIL | Y |  @I13@
+ --> 1 MARR
+ <-- 1 | MARR | Y | 
+ --> 2 DATE 2 FEB 2000
+ <-- 2 | DATE | Y |  2 FEB 2000
+ --> 2 PLAC america
+ <-- 2 | PLAC | N |  america
+ --> 1 EVEN
+ <-- 1 | EVEN | N | 
+ --> 2 TYPE Ending
+ <-- 2 | TYPE | N |  Ending
+ --> 1 _CURRENT N
+ <-- 1 | _CURRENT | N |  N
+ --> 0 TRLR
+ <-- 0 | TRLR | Y | 
